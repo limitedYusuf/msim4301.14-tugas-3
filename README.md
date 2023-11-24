@@ -16,6 +16,8 @@ Tugas Tuton 3 membuat program Java studi kasus Restoran
    - [x] Menghitung total biaya pesanan dengan mempertimbangkan diskon yang mungkin diterapkan.
    - [x] Menampilkan struk pesanan pelanggan.
    - [x] Keluar dari program.
+- [x] Implementasikan operasi I/O dan operasi file untuk menyimpan dan memuat daftar menu dari sebuah file teks, dan juga menyimpan struk pesananan pelanggan dan memuat dari file teks.
+- [x] Gunakan struktur keputusan dan pengulangan sesuai dengan kebutuhan, seperti saat menampilkan menu dan memproses pesanan.
 
 Cara Run kode ini :
 Buka terminal / CMD
